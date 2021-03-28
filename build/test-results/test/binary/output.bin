@@ -1,2 +1,7 @@
 print statement
 My Nodes: 56->30->70
+<<<<<<< HEAD
+=======
+print statement
+My Nodes: 30->70
+>>>>>>> UC4_Dequeue_From_Beginning
