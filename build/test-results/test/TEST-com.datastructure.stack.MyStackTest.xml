@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.datastructure.stack.MyStackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-28T14:59:48" hostname="DESKTOP-0QBG6NF" time="0.077">
+<testsuite name="com.datastructure.stack.MyStackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-28T15:04:03" hostname="DESKTOP-0QBG6NF" time="0.03">
   <properties/>
-  <testcase name="given3NumbersInStack_WhenPoped_ShouldMatchWithLastAddedNode()" classname="com.datastructure.stack.MyStackTest" time="0.077"/>
+  <testcase name="given3NumbersInStack_WhenPoped_ShouldMatchWithLastAddedNode()" classname="com.datastructure.stack.MyStackTest" time="0.03"/>
   <system-out><![CDATA[print statement
 My Nodes: 30->70
 ]]></system-out>

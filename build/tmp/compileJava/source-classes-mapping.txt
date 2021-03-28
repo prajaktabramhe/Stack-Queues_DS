@@ -6,3 +6,5 @@ com/datastructure/stack/MyNode.java
  com.datastructure.stack.MyNode
 com/datastructure/stack/MyStack.java
  com.datastructure.stack.MyStack
+com/datastructure/stack/MyQueue.java
+ com.datastructure.stack.MyQueue
