@@ -22,7 +22,8 @@ public class MyStackTest
 
     }
     @Test
-    public void given3NumbersInStack_WhenPoped_ShouldMatchWithLastAddedNode() {
+    public void given3NumbersInStack_WhenPoped_ShouldMatchWithLastAddedNode()
+    {
         MyStack myStack = new MyStack();
         MyNode<Integer> myFirstNode = new MyNode<>(70);
         MyNode<Integer> mySecondNode = new MyNode<>(30);
