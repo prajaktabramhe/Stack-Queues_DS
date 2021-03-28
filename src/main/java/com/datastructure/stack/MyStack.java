@@ -27,4 +27,5 @@ public class MyStack
     {
         return myLinkedList.pop();
     }
+
 }
