@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.datastructure.stack.MyStackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-28T14:16:29" hostname="DESKTOP-0QBG6NF" time="0.057">
+  <properties/>
+  <testcase name="given3Numbers_WhenAddedToStack_ShouldHaveLastAddedNode()" classname="com.datastructure.stack.MyStackTest" time="0.057"/>
+  <system-out><![CDATA[print statement
+My Nodes: 56->30->70
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

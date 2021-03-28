@@ -1,0 +1,8 @@
+com/datastructure/stack/INode.java
+ com.datastructure.stack.INode
+com/datastructure/stack/MyLinkedList.java
+ com.datastructure.stack.MyLinkedList
+com/datastructure/stack/MyNode.java
+ com.datastructure.stack.MyNode
+com/datastructure/stack/MyStack.java
+ com.datastructure.stack.MyStack
